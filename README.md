@@ -1,0 +1,1 @@
+Each method described by the paper "An in-situ magnetometer-based method for syncing wearable inertial measurement units" can be found in this github including the data used for the paper. Please refer to each folder for an individual readme.
